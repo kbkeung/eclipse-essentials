@@ -8,6 +8,6 @@ public class Examples {
 	}
 
 	public void example() {
-		
+		String str = "";
 	}
 }
